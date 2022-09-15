@@ -1,2 +1,2 @@
-######## This course is for full stack development ###### 
-##COMP 3123 - MAJOR ASSIGNMENTS ARE POSTED##
+######## This course is for COMP 3104 DEVOPS ###### 
+##COMP 3104 - MAJOR ASSIGNMENTS ARE POSTED##
